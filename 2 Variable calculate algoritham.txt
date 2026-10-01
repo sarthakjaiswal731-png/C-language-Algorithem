@@ -1,0 +1,25 @@
+                     Algorithm: Arithmetic Operations on Two Values
+Step1:  start
+Step2:- Open your Pc
+Step3:- Open turbo c++
+Step4:- Open a new file with alt+f
+Step5:- Rewrite its name with .c (for compile)
+Step6:- Include library with stdio.h and conio.h
+Step7:- Write main function (void main)
+Step8:- Write clrscr for clear previos data include
+Step9:- Take a open bracket{
+Step10:- Take two variables a and b.
+Step11:- Read the first value from the user and store it in a.
+Step12:- Read the second value from the user and store it in b.
+Step13:- Calculate Addition: a + b.
+Step14:- Calculate Subtraction: a - b.
+Step15:- Calculate Multiplication: a × b.
+Step16:- Check whether b is zero.
+Step17:- If b ≠ 0, calculate Division: a / b.
+Step18:- If b = 0, display "Cannot divide by zero".
+Step19:- Write getch()
+Step20:- Close the bracket }
+Step21:- Check compile from alt+f9
+Step22:- Then run from ctrl+f9
+Step23:- Save the file
+Step24:- End
