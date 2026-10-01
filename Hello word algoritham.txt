@@ -1,0 +1,18 @@
+               ALGORITHAM OF WRITE HELLO WORD IN C 
+  
+Step1: start
+Step2:- Open your Pc
+Step3:- Open turbo c++
+Step4:- Open a new file with alt+f
+Step5:- Rewrite its name with .c (for compile)
+Step6:- Include library with stdio.h and conio.h
+Step7:- Write main function (void main)
+Step8:- Write clrscr for clear previos data include
+Step9:- Take a open bracket{
+Step10:- Then write string with printf HELLO WORLD
+Step11:- Write getch()
+Step12:- Close the bracket }
+Step13:- Check compile from alt+f9
+Step14:- Then run from ctrl+f9
+Step16:- Save the file
+Step15:- End
